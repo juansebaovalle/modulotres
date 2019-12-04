@@ -1,0 +1,7 @@
+{
+  "name": "chatNativo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
